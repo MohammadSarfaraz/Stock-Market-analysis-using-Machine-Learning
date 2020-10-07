@@ -1,4 +1,6 @@
-# Stock-Market-analysis-using-Deep-Learning
+# Stock Market Analysis using ML and DL using jupyter notebook 
+
+# 1.Stock-Market-analysis-using-Deep-Learning
 * Stock Prediction
 In this task, the future stock prices of State Bank of India (SBIN) are predicted using the LSTM Recurrent Neural Network. Our task is to predict stock prices for a few days, which is a time series problem. The LSTM model is very popular in time-series forecasting, and this is the reason why this model is chosen in this task. The historical prices of SBIN are collected automatically using the nsepy library of python. We have used 6 years of historical price data, from 01.01.2013 to 31.12.2018.
 
@@ -9,6 +11,6 @@ Before proceeding further, make sure that you have installed TensorFlow and nsep
 
 
 
-# Stock-Market-analysis-using-Machine-Learning
+# 2.Stock-Market-analysis-using-Machine-Learning
 Stock market analysis using quandl
 
